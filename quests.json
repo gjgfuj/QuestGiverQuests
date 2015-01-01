@@ -10,7 +10,7 @@
      {"displayName": "Test JSON Quest 3",
       "description": "The third quest for loading from JSON",
       "maxTimeTaken": 200,
-      "requirements": [2]},
+      "requirements": [1]},
      {"displayName": "Test JSON Quest 4",
       "description": "The second quest for loading from JSON",
       "maxTimeTaken": 50,
