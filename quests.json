@@ -18,5 +18,6 @@
      {"displayName": "Test Website Quest 2",
       "description": "The second website test quest.",
       "maxTimeTaken": 20,
-      "requirements": [0,1,2,3]}
+      "requirements": [0,1,2,3],
+      "visibleOverride": true}
 ]
