@@ -10,7 +10,7 @@
      {"displayName": "Test JSON Quest 3",
       "description": "The third quest for loading from JSON",
       "maxTimeTaken": 200,
-      "requirements": [2]},
+      "requirements": [1]},
      {"displayName": "Test JSON Quest 4",
       "description": "The second quest for loading from JSON",
       "maxTimeTaken": 50,
@@ -18,6 +18,10 @@
      {"displayName": "Test Website Quest 2",
       "description": "The second website test quest.",
       "maxTimeTaken": 20,
+<<<<<<< HEAD
       "requirements": [0,1,2,3],
       "visibleOverride": true}
+=======
+      "requirements": [0,1,2,3]}
+>>>>>>> 9ebfec2a56711c33201835387df61ce2c118e1b1
 ]
